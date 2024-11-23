@@ -34,6 +34,7 @@ Cloning folder "test/" into "out/", replacing any instance of {#variable#} with 
     file2.txt         # Hello, this variable doesn't exist {#prog.what#}
 
 Building:
+
     git clone https://github.com/dbrafael/tempa
     cd tempa
     cargo build --release
