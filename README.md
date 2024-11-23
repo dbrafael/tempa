@@ -1,4 +1,4 @@
-#Tempa - Simple template parsing written in Rust
+# Tempa - Simple template parsing written in Rust
 
 This is a small tool to help me clone directories replacing template variables in files.
 Template variables can have any specified delimiters and the values are supplied in a yaml file.
