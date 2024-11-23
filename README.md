@@ -6,6 +6,7 @@ Template variables can have any specified delimiters and the values are supplied
 Example:
 
 Cloning folder "test/" into "out/", replacing any instance of {#variable#} with the appropriate value.
+
     $ ls
     tempa
     test/
