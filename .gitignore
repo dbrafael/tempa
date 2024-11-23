@@ -1,0 +1,9 @@
+out/
+target/
+test/
+Cargo.lock
+flake.lock
+flake.nix
+replacements.yaml
+.envrc
+.direnv/
